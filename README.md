@@ -14,5 +14,5 @@ A simple python recipe finder using TheMealIDB API
 - REST API
 - JSON
 ## Installation
-'''bash
+```bash
 pip install requeste
